@@ -1,0 +1,41 @@
+_repo: Southern-Lights-and-Shadows_9509
+_version: 0.0.1
+creator:
+  editors:
+  - agent_name: Alden, Henry Mills
+    birthdate: 1836
+    deathdate: 1919
+    gutenberg_agent_id: '2444'
+    url: http://www.gutenberg.org/2009/agents/2444
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Mills_Alden
+  - agent_name: Howells, William Dean
+    aliases:
+    - Howells, W. D. (William Dean)
+    - Howells, William D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+description: ''
+gutenberg_issued: '2005-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9509'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American -- Southern States'
+- !lcc 'PS'
+- !lcsh 'American fiction -- Southern States'
+- !lcsh 'Southern States -- Social life and customs -- Fiction'
+- GITenberg
+tableOfContents: The capture of Andy Proudfoot / G. M. Cooke -- The level of fortune
+  / A. M. Roach -- Pap Overholt / A. MacGowan -- In the piny woods / Mrs. B. F. Mayhew
+  -- My fifth in Mammy / W. L. Sheppard -- An incident / S. B. Elliott -- A snipe
+  hunt / M. E. M. Davis -- The courtship of Colonel Bill / J. J. Eakins -- The balance
+  of power / M. Thompson.
+title: Southern Lights and Shadows
+url: http://www.gutenberg.org/ebooks/9509
