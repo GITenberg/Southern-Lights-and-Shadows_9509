@@ -1,5 +1,8 @@
 _repo: Southern-Lights-and-Shadows_9509
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editors:
   - agent_name: Alden, Henry Mills
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/97
     wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9509#Southern-Lights-and-Shadows
 gutenberg_issued: '2005-12-01'
 gutenberg_type: Text
 identifiers:
